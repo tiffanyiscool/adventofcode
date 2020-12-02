@@ -1,1 +1,1 @@
-repo for adventofcode.com solutions
+repo for [adventofcode](adventofcode.com) solutions

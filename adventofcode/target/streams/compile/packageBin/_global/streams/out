@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/tiffanynelson/code/adventofcode/adventofcode/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tiffanynelson/code/adventofcode/adventofcode/target/scala-2.13/classes/Day1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	day1_data.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tiffanynelson/code/adventofcode/adventofcode/target/scala-2.13/classes/day1_data.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tiffanynelson/code/adventofcode/adventofcode/target/scala-2.13/classes/Day1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tiffanynelson/code/adventofcode/adventofcode/target/scala-2.13/classes/Day1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
